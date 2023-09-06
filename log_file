@@ -1,0 +1,2 @@
+get-Process -ID 5804
+Stop-Process -ID 5804 -Force
