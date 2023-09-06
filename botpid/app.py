@@ -21,9 +21,9 @@ if __name__ == '__main__':
             
         def animais(txt):
            
-            animais('Elefante')
+            txt('Elefante')
             
-            print(animais)
+            print(txt)
             
                 
              
